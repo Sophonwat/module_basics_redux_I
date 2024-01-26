@@ -4,7 +4,7 @@ In this assignment your goal is always to get the car to the final flag.
 You have four functions (Lego blocks) to achieve this:
 
 - **Move** : Moves the car 1 space in the direction it is heading. 
-- **Turn** : Turns the car 90 deg clockwise. 
+- **Turn** : Turns the car 90 degree clockwise. 
 - **Peek** : Returns true if the next cell is open, otherwise false. 
 - **AtGoal:** : Returns true if the current cell is the goal cell.
 
@@ -17,7 +17,16 @@ Use the convention that is correct for your language.
 ![alt](images/eks.png)  
 Possible  solution
 ```csharp
-Move();
+
+## Task 1
+
+As stated you can use the functions Move, Turn, Peek and AtGoal + variables, conditionals, arrays, loops and functions to get the car to the end.
+
+**Submit**:   
+Add task1.* file to the repo.  
+Commit to github. 
+
+![alt](images/map1.png)  
 Move();
 Move();
 Turn();
@@ -92,3 +101,9 @@ Add task5.* to the repo.
 Commit to github. 
 
 ![alt](images/map5.png) 
+39 - 2
+39 - 1
+
+Row one 37
+Turn one + two + Turn
+Row two 36
